@@ -212,3 +212,13 @@ w,x,y,z=10,15,20,25
 * hasil dari syntax / source code diatas adalah seperti berikut ini :
 
 ![nama7](poto/nama7.png)
+
+# Pertemuan 6 - Lab 1-2
+
+* String Format
+  String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.
+
+* Penggunaan source code yang di berikan oleh dosen seperti berikut :
+
+![nama8](poto/nama8.png)
+
