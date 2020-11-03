@@ -338,3 +338,4 @@ Untuk hasil dari String Format 2 adalah :
 
 ## TERIMA KASIH 
 
+![nama15](poto/nama15.png)
