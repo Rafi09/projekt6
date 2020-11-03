@@ -276,3 +276,17 @@ secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat meng
 Hasil dari source code contoh diatas akan seperti berikut :
 
 ![nama10](poto/nama10.png)
+
+```
+Secara Default,.format() menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan .format() sebagai berikut :
+```
+
+```
+`print('{:<30}{:30}{:>30}'.format('mobil','ufo','pesawat'))`
+`print('{:<30}{:30}{:>30}'.format(10,20,15))`
+```
+
+Hasil dari source code contoh diatas akan muncul seperti ini :
+
+![nama11](poto/nama11.png)
+
