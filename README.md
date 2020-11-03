@@ -258,3 +258,21 @@ Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan out
 
 ![nama9](poto/nama9.png)
 
+# String Format 2
+
+Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )
+Dengan ketentuan sebagai berikut :
+
+```
+secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan .format() sebagai berikut :
+```
+
+```
+`print('{0:8} | {1:9}'.format('Nama orang','Jumlah'))`
+`print('{0:8} | {1:9}'.format('Alek',3.))`
+`print('{0:8} | {1:9}'.format('Jony',10))`
+```
+
+Hasil dari source code contoh diatas akan seperti berikut :
+
+![nama10](poto/nama10.png)
