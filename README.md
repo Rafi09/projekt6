@@ -31,29 +31,29 @@ print("= NIM     : 312010124         ") <br>
 print("= KELAS   : TI.20 A.1         ") <br>
 print("==============================") <br>
 
-`print("Please enter your full name : Risky HariAdi")` <br> 
+`print("Please enter your full name : Rafi Ubaidillah")` <br> 
 `fullname=input()` <br>
-`print("Please enter nickname : Risky")` <br> 
+`print("Please enter nickname : Rafi")` <br> 
 `nickname=input()` <br>
-`print("Please enter your NPM : 312010124")` <br> 
+`print("Please enter your NPM : 312010090")` <br> 
 `npm=input()` <br>
-`print("Please enter place of birth : BEKASI")` <br> 
+`print("Please enter place of birth : BOGOR")` <br> 
 `pob=input()` <br>
-`print("Please enter date of birth : 13")` <br> 
+`print("Please enter date of birth : 9")` <br> 
 `date=input()` <br>
-`print("Please enter your month of birth : July")` <br> 
+`print("Please enter your month of birth : MEY")` <br> 
 `month=input()` <br>
 `print("Please enter year of birth : 2000")` <br> 
 `year=input()` <br>
-`print("Please enter your phone number : 085282024179")` <br>
+`print("Please enter your phone number : 082128754721")` <br>
 `phone=input()` <br>
-`print("Please enter your address : Perumahan Graha Bagasasi")` <br> 
+`print("Please enter your address : KP momonot")` <br> 
 `address=input()` <br>
 
 `dob=input("2020-year")` <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
-`print("f\n Let me introduce my self, my name is {Risky HariAdi}, but you can call me {Risky}, my NPM {312010124}, I was born in {BEKASI} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Graha Bagasasi}, So don't forget to call me before with the number {085282024179}, \n\n Thanks you very much ")` <br>
+`print("f\n Let me introduce my self, my name is {Rafi Ubaidillah}, but you can call me {Rafi}, my NPM {312010090}, I was born in {BOGOR} and iam {2020} years old, I am very glad if you want to invite my house in {kp momonot}, So don't forget to call me before with the number {082128754721}, \n\n Thanks you very much ")` <br>
 
 Berikut Penjelasannya : <br>
 
@@ -114,3 +114,12 @@ Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
 ```
 ![nama4](poto/nama4.png)
 
+print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")
+
+Keterangan :
+
+Fungsi huruf f pada perintah print(f"....") adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )
+sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable
+Hasil dari output tersebut seperti berikut :
+
+![nama5](poto/nama5.png)
