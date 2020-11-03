@@ -330,7 +330,7 @@ Untuk hasil dari String Format 2 adalah :
 
 ![nama14](poto/nama14.png)
 
-## TERIMAKASIH 
+## TERIMA KASIH 
 
 a=int(input("masukkan nilai a:")) b=int(input("masukkan nilai b:")) print("variable a=",a) print("variable b=",b) print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
 
