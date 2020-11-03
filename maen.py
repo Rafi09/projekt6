@@ -1,0 +1,5 @@
+print("==============================") 
+print("= NAMA    : Rafi Ubaidillah   ") 
+print("= NIM     : 312010124         ") 
+print("= KELAS   : TI.20 A.1         ") 
+print("==============================")
