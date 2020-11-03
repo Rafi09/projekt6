@@ -22,8 +22,8 @@ Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat A
 
 ![nama2](poto/nama2.png)
 
-Saat ini saya akan menjelaskan hasil dari tugas tersebut.
-Berikut source code nya atau Klik Link berikut (pertemuan5 python):
+Berikut **source code** nya atau Klik Link berikut ([pertemuan5 python](pertemuan5.py)):
+``` python
 
 print("==============================") <br>
 print("= NAMA    : Rafi Ubaidillah   ") <br>
@@ -70,3 +70,47 @@ print(1234567) <br>
 (Seperti gambar dibawah ini)
 ```
 ![nama3](poto/nama3.png)
+
+* Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini :
+
+`fullname=input()` <br>
+``` <br>
+**Keterangan** : <br> 
+`>Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+`>Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br> 
+`*(newline)*` <br>
+
+[poto](poto/input.png)<br>
+
+pada gambar di atas, hasil dari inputan tersebut berwarna *hijau* <br>
+
+* Untuk memasukan perintah lain seperti *Nikname, NPM, Place Of Birth, Date Of Birth, Year Of Birth, Phone Number, and Addres* mengikuti perintah sama seperti memasukan *fullname* <br>
+
+* Untuk menghitung rumus saya menggunakan variable *DOB* yaitu 2020 (Tahun sekarang) dikurangin dengan Year of Birt, pada source code berikut : <br>
+``` python 
+
+
+
+dob=input("2020-year") <br>
+
+
+
+``` <br>
+Pada syntax/source diatas, saya menggunakan variable (dob) dimana untuk menghitung umur (variable **age** pada output), yaitu dengan rumus pada variable *dob=input("2020-year")* <br>
+
+* langkah kali ini saya akan menampilkan output yang diminta oleh dosen.output pertama yang diminta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax/source code berikut : <br>
+
+``` python
+print("\n\n Assalamu'alaikum. ")` <br>
+``` <br>
+
+``` python
+
+Keterangan : <br>
+1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)* <br>
+
+2. Fungsi print() seperti dijelaskan pada point **Output** diatas
+Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
+```
+![nama4](poto/nama4.png)
+

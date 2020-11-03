@@ -1,0 +1,31 @@
+# Saat ini saya  akan menjelaskan hasil dari tugas tersebut.
+
+print("==============================") 
+print("= NAMA    : Rafi Ubaidillah   ") 
+print("= NIM     : 312010124         ") 
+print("= KELAS   : TI.20 A.1         ") 
+print("==============================") 
+
+print("Please enter your full name : Rafi Ubaidillah")
+fullname=input()
+print("Please enter nickname : Rafi") 
+nickname=input()
+print("Please enter your NPM : 312010090") 
+npm=input()
+print("Please enter place of birth : BOGOR")
+pob=input()
+print("Please enter date of birth : 9") 
+date=input()
+print("Please enter your month of birth : mey") 
+month=input()
+print("Please enter year of birth : 2000")
+year=input()
+print("Please enter your phone number : 082128754721")
+phone=input()
+print("Please enter your address : kp momonot") 
+address=input()
+
+dob=input("2020-year")
+
+print("\n\n Assalamu'alaikum. ")
+print("f\n Let me introduce my self, my name is {Rafi Ubaidillah}, but you can call me {Rafi}, my NPM {312010090}, I was born in {BOGOR} and iam {2020} years old, I am very glad if you want to invite my house in {kp momonot}, So don't forget to call me before with the number {082128754721}, \n\n Thanks you very much ")
