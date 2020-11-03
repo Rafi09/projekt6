@@ -1,1 +1,1 @@
-# projekt6
+![nama](poto/nama.png)
