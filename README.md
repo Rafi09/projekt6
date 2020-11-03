@@ -11,13 +11,10 @@ Tugas :Bahasa Pemrogramman
 
 DAFTAR ISI
 | No | Description | Link |
-| ---- | ---- | ---- |
-| 1 | Tugas Pertemuan 5 | [clickhere]
-(#pertemuan-5---tugas)
-| 2 | Tugas Pertemuan 6 - lab 1 | [clickhere]
-(#pertemuan-6---lab-1)
-| 3 | Tugas pertemuan 6 - lab 1 dan 2 | [clickhere]
-(#pertemuan-6---lab1-2)
+| ----- | ----- | ----- |
+| 1 | Tugas Pertemuan 5 | [click here](#pertemuan-5---tugas)
+| 2 | Tugas Pertemuan 6 - lab 1 | [click here](#pertemuan-6---lab-1)
+| 3 | Tugas pertemuan 6 - lab 1 dan 2 | [click here](#pertemuan-6---lab-1-2)
 
 # Pertemuan 5 - Tugas
 
