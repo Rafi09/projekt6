@@ -290,3 +290,7 @@ Hasil dari source code contoh diatas akan muncul seperti ini :
 
 ![nama11](poto/nama11.png)
 
+# Konversi Nilai Variable Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable Tugas
+
+![nama12](poto/nama12.png)
+
