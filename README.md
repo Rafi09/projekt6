@@ -177,3 +177,38 @@ Hasil dari source code tersebut seperti gambar dibawah ini :
 
 ![nama6](poto/nama6.png)
 
+* Penggunaan separator
+
+```
+>Pendeklarasian beberapa variable beserta nilainya
+```
+
+```
+w,x,y,z=10,15,20,25
+>Menampilkan hasil dari variable tiap-tiap variable
+```
+
+```
+`print(w,x,y,z)`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (koma)
+```
+
+```
+`print(w,x,y,z,sep=",")`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah
+```
+
+```
+`print(w,x,y,z,sep="")`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (titik dua)
+`print(w,x,y,z,sep=":")`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah
+```
+
+```
+`print(w,x,y,z,sep="-----")`
+```
+
+* hasil dari syntax / source code diatas adalah seperti berikut ini :
+
+![nama7](poto/nama7.png)
