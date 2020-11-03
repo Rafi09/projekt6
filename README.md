@@ -123,3 +123,57 @@ sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari var
 Hasil dari output tersebut seperti berikut :
 
 ![nama5](poto/nama5.png)
+
+# Pertemuan 6 - Lab 1
+
+Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari operator aritmatika menggunakan bahasa Pemrograman pyhton. Berikut source code yang di berikan oleh dosen :
+
+``` #penggunaan end
+print('A', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('X')
+print('Y')
+print('z')
+
+#penggunaan separator
+
+`w, x, y, z = 10, 15, 20, 25`
+`print(w, x, y, z)`
+`print(w, x, y, z, sep=',')`
+`print(w, x, y, z, sep='')`
+`print(w, x, y, z, sep=':')`
+`print(w, x, y, z, sep='.....')`
+```
+Oke, kali ini saya akan menjelaskan tentang materi yang di berikan oleh Dosen.
+
+* Penggunaan END Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris. secara default penggunaan end adalah untuk ganti baris.
+
+```
+`print('A', end='')`
+`print('B', end='')`
+`print('C', end='')`
+```
+
+```
+> Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini :
+```
+
+```
+`print()`
+```
+```
+>Syntax dibawah ini digunakan untuk menampilkan output berupa string
+```
+
+```
+`print('X')`
+`print('Y')`
+`print('z')`
+```
+
+Hasil dari source code tersebut seperti gambar dibawah ini :
+
+![nama6](poto/nama6.png)
+
